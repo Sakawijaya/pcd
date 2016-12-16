@@ -1,0 +1,24 @@
+{
+  "name": "pricecompare",
+  "version": "1.0.0",
+  "description": "node js module for price comparation",
+  "main": "start.js",
+  "dependencies": {
+    "amqplib": "^0.5.1",
+    "cheerio": "^0.22.0",
+    "cron": "^1.1.1",
+    "formidable": "^1.0.17",
+    "httpdispatcher": "^2.0.1",
+    "mysql": "^2.12.0",
+    "phantom": "^3.2.0",
+    "request": "^2.79.0",
+    "string": "^3.3.3",
+    "util": "^0.10.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "katong",
+  "license": "ISC"
+}
